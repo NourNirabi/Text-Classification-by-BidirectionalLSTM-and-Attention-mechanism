@@ -40,6 +40,9 @@ The **Topic Modeling (Text Classification)** project focuses on building a syste
 3. Run the classification system:
    ```bash
    text-classification.ipynb
+## Dataset
+The dataset used in this project is from [Kaggle](https://www.kaggle.com/datasets/baraamelhem/topic-classification-dataset). You can download it directly from the link provided and place it in the project directory for training.
+
 ## Example Interaction and Results  
 ### **Example Input:**  
 A user submits a news article with the headline "Global Health Crisis: Experts Discuss the Future of Healthcare."
