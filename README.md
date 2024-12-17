@@ -33,7 +33,7 @@ The **Topic Modeling (Text Classification)** project focuses on building a syste
 ## Installation and Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/Topic-Modeling.git  
+   git clone https://github.com/NourNirabi/Text-Classification-by-BidirectionalLSTM-and-Attention-mechanism.git  
    cd Topic-Modeling
 2. Load the pre-trained model and tokenizer files:
    The pre-trained model and tokenization files (my_model.keras, tokenizer.pickle, ixtoword.pickle, wordtoix.pickle) are included in the repository and can be loaded directly in the code
